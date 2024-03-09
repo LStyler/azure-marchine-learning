@@ -79,7 +79,7 @@ Após entrar no modelo, vamos em implementar, serviços web e adicionar as segui
 
 Após configurar tudo corretamente, basta esperar que o Deploy status mude para *Succeeded*, o que demora em torno de 5 a 10 minutos
 
-Após finalizar corretamente e sem problemas, basta ir em Pontos de extremidade e selecionar o predict-rentals.  <br>  após isto, basta ir clicar em teste e alterar o código Json pelo código que está localizado no [ponto-de-extremidade.json]()
+Após finalizar corretamente e sem problemas, basta ir em Pontos de extremidade e selecionar o predict-rentals.  <br>  após isto, basta ir clicar em teste e alterar o código Json pelo código que está localizado no [ponto-de-extremidade.json](https://github.com/LStyler/azure-marchine-learning/blob/main/ponto-de-extremidade.json)
 
 O resultado deve ser similiar a:
 
